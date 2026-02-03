@@ -1,4 +1,4 @@
-# Adapta Meetings - Official Releases
+# Adapta Wizard - Official Releases
 
 This repository contains official release builds for **Adapta Meetings**, an audio transcription and note-taking application for productivity.
 
