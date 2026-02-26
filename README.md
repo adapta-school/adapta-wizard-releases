@@ -1,6 +1,6 @@
 # Adapta Wizard - Official Releases
 
-This repository contains official release builds for **Adapta Meetings**, an audio transcription and note-taking application for productivity.
+This repository contains official release builds for **Adapta Wizard**, an audio transcription and note-taking application for productivity.
 
 > **Note:** This is a releases-only repository. The source code is maintained separately.
 
@@ -9,16 +9,16 @@ This repository contains official release builds for **Adapta Meetings**, an aud
 Download the latest version for your platform:
 
 ### macOS
-- **DMG Installer**: `adapta-meetings-{version}.dmg`
+- **DMG Installer**: `adapta-wizard-{version}.dmg`
 - **Architecture**: Apple Silicon (arm64) and Intel (x64) supported
 
 ### Windows
-- **Installer**: `adapta-meetings-{version}-setup.exe`
+- **Installer**: `adapta-wizard-{version}-setup.exe`
 - **Architecture**: x64
 
 ### Linux
-- **AppImage**: `adapta-meetings-{version}.AppImage`
-- **Debian Package**: `adapta-meetings-{version}.deb`
+- **AppImage**: `adapta-wizard-{version}.AppImage`
+- **Debian Package**: `adapta-wizard-{version}.deb`
 
 ## Installation
 
@@ -35,12 +35,12 @@ Download the latest version for your platform:
 ### Linux
 **AppImage:**
 1. Download the `.AppImage` file
-2. Make it executable: `chmod +x adapta-meetings-{version}.AppImage`
-3. Run it: `./adapta-meetings-{version}.AppImage`
+2. Make it executable: `chmod +x adapta-wizard-{version}.AppImage`
+3. Run it: `./adapta-wizard-{version}.AppImage`
 
 **Debian/Ubuntu:**
 1. Download the `.deb` file
-2. Install: `sudo dpkg -i adapta-meetings-{version}.deb`
+2. Install: `sudo dpkg -i adapta-wizard-{version}.deb`
 3. Fix dependencies if needed: `sudo apt-get install -f`
 
 ## Auto-Updates
@@ -70,12 +70,12 @@ You can check for updates manually through the app menu.
 
 ## Release Notes
 
-For detailed release notes and changelogs, see the [Releases page](https://github.com/adapta-school/adapta-meetings-releases/releases).
+For detailed release notes and changelogs, see the [Releases page](https://github.com/adapta-school/adapta-wizard-releases/releases).
 
 ## Support
 
 For issues, questions, or feedback:
-- Check the [latest release](https://github.com/adapta-school/adapta-meetings-releases/releases/latest) for known issues
+- Check the [latest release](https://github.com/adapta-school/adapta-wizard-releases/releases/latest) for known issues
 - Contact support: duvidas@adapta.org
 
 ## License
@@ -84,4 +84,4 @@ Copyright © 2026 Adapta Org. All rights reserved.
 
 ---
 
-**Adapta Meetings** - Intelligent meeting transcription and note-taking for modern teams.
+**Adapta wizard** - Intelligent meeting transcription and note-taking for modern teams.
